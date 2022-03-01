@@ -1,0 +1,16 @@
+.top-box{background-color: #fff;margin: 15px 30px;padding: 20px;height: 30px;border-radius:8px;text-align: 30px;}
+.table-box{background-color: #fff;margin: 15px 30px;margin-top: 20px;padding: 20px;border-radius:8px;}
+.breadcrumb{padding: 2px 0px 2px 15px; background-color: #FFFFFF; height: 20px;}
+.querybox>label{font-size: 15px;margin-left:20px;}
+.inputbox{height: 26px;margin-left: 10px;}
+.querybox>button{margin-left: 20px;}
+.btn_search{margin-left: 20px;}
+.btn_add{border-radius:5px;}
+.formbox{background-color: #fff;margin: 15px 30px;margin-top: 20px;padding: 20px;border-radius:8px;height: 82%;}
+.formtitle{color:#000066; font-size:medium;}
+.formcontent{margin-top:30px;}
+.btn_submit{margin:30px;}
+
+.correct{font-size: 20px; color: red; text-align:center}
+.warn{font-size: 20px; color: #666; text-align:center}
+.price{color: #d50000;}

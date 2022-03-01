@@ -1,0 +1,24 @@
+body {overflow:auto;}
+.bigbox{width: 1519px;height: 750px;}
+.namebox{position: absolute; left:120px; top:40px;}
+.nameLabel{font-size: xx-large; color: #f1ea15;}
+
+.background{background-color: #ffb245; position: absolute; width: 1519px; height: 500px;top:115px;}
+
+.middlebox{position: absolute; top: 200px;display: flex;flex-flow: row;}
+
+.loginbox-bg{margin-left:100px;width: 340px; height: 321px; border-radius:10px; background-color: #FFF;filter:alpha(Opacity=85);-moz-opacity:0.85;opacity: 0.85;}
+.loginbox{padding: 55px; float: left; width: 230px; height: 215px;}
+.usrbox{border-bottom: 1px solid cadetblue;padding-bottom: 12px;}
+.usrtext{border-style: none; width: 80%;margin-left: 5px;}
+
+.pwdbox{margin-top: 40px;border-bottom: 1px solid cadetblue;padding-bottom: 12px;}
+.pwdtext{border-style: none; width: 80%;margin-left: 5px;}
+.hr{border:0;height:2px;}
+.loginbar{margin-top: 60px;}
+.LoginButton{width: 230px;}
+
+.footer{padding: 3px; background-color: #f57b23; position: absolute; width: 1519px; height: 20px; top:615px; text-align: center;color: #666;box-sizing: border-box;}
+
+.showimages{margin-left:150px;width:750px;}
+.front-img{width:600px; height: 321px;}
